@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      tminaa
+HostName                       EEZ198.ust.hk
+ProcessIdentifier              21712
+ProcessCreationTime_UTC        1624112908
+ProcessCreationTime_Readable   Sat Jun 19 22:28:28 2021 China Standard Time
+AppIdentifier                  OA File System Design Manager
+OSType                         win32
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         C:\Users\tminaa\OneDrive - HKUST Connect\VLC_Co-simulation with ADS\Cosimulation_TRx_wrk\Cosimulation_TRx_lib\%Tx_final_with_flickernoise\schematic\sch.oa.cdslck
+TimeEditLocked                 Sat Jun 19 23:21:42 2021 China Standard Time
