@@ -35,7 +35,6 @@ CO-SIMULATION_VLC<br>
 ## Simulation Procedure
 
 1. Download the zip file and unzip or git clone the whole project to a specific location. 
-[GitHub Link](https://https://github.com/OWL-Integrated-System-Evaluation-Engine
 <img src="Picture/Download.JPG" width="%80">
 
 2. Open the MATLAB and locate the working path of MATLAB to "your_project_location\Co-Simulation_VLC\MATLAB_Code". "your_project_location" is the path your store the downloaded project. e.g. "D:/OneDriver - HKUST Connect" is my project location.
