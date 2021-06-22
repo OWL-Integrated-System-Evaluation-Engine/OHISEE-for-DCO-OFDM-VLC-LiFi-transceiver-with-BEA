@@ -68,4 +68,6 @@ Then adding all the folers and subfolders into the work path.
 13.  Go back to GUI and click "Signal Demodulation". Then the received constellation, bit error rate and calculated data rate is shown. The simulated result is shown like the below picture.
 <img src="Picture/Simulated_GUI.JPG" width="%80">
 
-14.  Simulate and verify your VLC system with adding your channel model or transceiver front-end circuits.
+14.  Evaluate and verify your system with adding your channel model and transceiver circuits.
+
+For more information, please contact us at tminaa@connect.ust.hk
