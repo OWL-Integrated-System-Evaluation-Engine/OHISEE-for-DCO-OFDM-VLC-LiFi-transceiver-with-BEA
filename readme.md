@@ -32,7 +32,7 @@ CO-SIMULATION_VLC<br>
 #|-SNR_measurement: the source code for SNR measurement<br>
 #|-Picture: The picuted used the readme.md files<br>
 
-## Simulation Procedure
+## Tutorial for the Co-Simulation Platform
 
 1. Download the zip file and unzip or git clone the whole project to a specific location. 
 <img src="Picture/Download.JPG" width="%80">
