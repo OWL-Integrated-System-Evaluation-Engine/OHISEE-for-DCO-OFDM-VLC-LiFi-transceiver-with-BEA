@@ -51,7 +51,7 @@ Then adding all the folers and subfolders into the work path.
 5. Click the "SNR Measurement Pre" button to generate the transmitted signal for SNR measurement. The modulation scheme of each subcarrier is QAM-4 and the energy scaling factor is 1.
 
 6. Open the ADS software and locate the workspace we provided. And then open the schematic of "System_TEST". 
-<img src="Picture/ADS_PRJ.jpg" width="%80">
+<img src="Picture/File_Path.JPG" width="%80">
 
 7. Locating the path of input file to "your_project_location\Co-Simulation_VLC\MATLAB_ADS_Data\BasebandOutput_SNR"  and the path of  output file to "your_project_location\Co-Simulation_VLC\MATLAB_ADS_Data\BasebandInput_SNR". And locate the DAC_Varible location to "your_project_location\Co-Simulation_VLC\MATLAB_Code\Channel_model\Parameter_Cal_Result\ChipRate.txt"
 
