@@ -1,0 +1,1 @@
+M: the modulation order used for SNR measurement.
