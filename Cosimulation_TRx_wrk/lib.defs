@@ -1,4 +1,0 @@
-INCLUDE $HPEESOF_DIR/oalibs/analog_rf.defs
-INCLUDE $HPEESOF_DIR/oalibs/dsp.defs
-DEFINE Cosimulation_TRx_lib Cosimulation_TRx_lib
-ASSIGN Cosimulation_TRx_lib libMode shared
